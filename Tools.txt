@@ -1,0 +1,48 @@
+My Canvas Dev Log
+
+
+27th Dec 2017 Started writing today;
+
+Done open using file reader( Me no idea!)
+
+1.Pen
+2.Stroke shading
+3. Smooth shading- WRONG
+    Watercolor-FLAT  -RIGHT
+
+		I have no idea how my shading alg turn out to be watercolor;
+		The one I was looking for;
+		Now I need to find my old oil paint alg and give it to canvas;
+		Need to fix open dialogue;
+		Daily 1gb over :p;
+
+28th Dec 2017
+
+4-Watercolor-Circular
+
+5-Water;
+6-Old Oil color;
+
+29th Dec 2017; 2nd Aniv of Canvas 104;
+
+6-Old watercolor improoved;
+7-color picker;
+	Added:
+			Inverse
+			brighten
+			darken
+			dim
+			enlighten
+			effects-
+				position;
+				learned fast blur alg;
+				
+				tmrw ---> Blurrrr~~~~~;
+30th Dec 2017				
+		kashtappett and got blurr
+31st Dec 2017
+	color balance
+	gray scale level
+	
+	TMRW IS !2017;
+	
